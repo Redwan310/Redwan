@@ -4,7 +4,7 @@
 #### I'm Professional Web Developer &  Data Entry Operator
 
 
-I am a front end web developer. Who are interested in creating 100% error-free website or solving any problem. I try to help people as much as I have education and knowledge. I love to solve problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the years, I have prided myself on producing quality work and maintaining excellent communication. I mostly work with web developers but I am an employee of Bangladesh Police.
+I am a front end web developer and data entry expert. Anyone interested in creating 100% error-free website or solving any problem can contact me. I try to help people with whatever education and knowledge I have. I love to solve problems. Over the years, I have prided myself on producing quality work and maintaining excellent communication. I am active on the internet most of the time.
 
 Skills: Html/CSS/Bootstrap/JavaScript/Jquery/Php/ Mysql/ Psd to Html
 
