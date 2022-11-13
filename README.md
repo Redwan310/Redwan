@@ -27,4 +27,4 @@ Skills: Html/CSS/Bootstrap/JavaScript/Jquery/Php/ Mysql/ Psd to Html
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Redwan310)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Redwan310)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/Redwan310) 
