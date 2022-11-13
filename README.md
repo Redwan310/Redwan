@@ -1,8 +1,7 @@
-![I'm Professional Web Developer &  Data Entry Operator](https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/299660714_753051769298371_8902477510946438097_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ab6a21&_nc_eui2=AeGrDOIuWfnoxtqncveHcRNXxb7gQoelxxXFvuBCh6XHFcNHWGv_6OM-4bNu5wwPt83Nu3sJjyvhCRz-VlIRdNDf&_nc_ohc=1jyqhsDor8UAX_CSFZj&_nc_oc=AQkd0dIiA2MRRk6-ihQWz-EYzRWebd4HmTYWkBsnt-ss178ah0lIxE9SYOG5I2lgnes&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT9pXPcW1uCu2YbbmnYGi3JaYIVeXGLSICWeuXaMwntIDw&oe=62FE5429)
-https://www.canva.com/design/DAFJZbhrSqc/p9Y-EgnuY0pJeYmdLUdeUw/view?utm_content=DAFJZbhrSqc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
-### Hi there 👋, My Name Is Jillur Rahman Redwan
-#### I'm Professional Web Developer &  Data Entry Operator
+![I'm Professional Web Developer](https://document-export.canva.com/v4iWY/DAFR1Ov4iWY/1/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20221112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221112T205135Z&X-Amz-Expires=63195&X-Amz-Signature=777fd3aa9c873322debf14187aaa7e087a4f373ece8b4752d2624904ff3e58ea&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2013%20Nov%202022%2014%3A24%3A50%20GMT)
 
+### Hi there 👋,  Hi there 👋, My Name Is Jillur Rahman Redwan
+#### I'm Professional Web Developer
 
 I am a front end web developer and data entry expert. Anyone interested in creating 100% error-free website or solving any problem can contact me. I try to help people with whatever education and knowledge I have. I love to solve problems. Over the years, I have prided myself on producing quality work and maintaining excellent communication. I am active on the internet most of the time.
 
